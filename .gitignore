@@ -1,0 +1,8 @@
+/*
+!/.github
+!/.gitignore
+!/wp-content
+/wp-content/*
+!/wp-content/themes
+/wp-content/themes/*
+!/wp-content/themes/astra-child
